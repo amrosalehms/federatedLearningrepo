@@ -8,8 +8,6 @@ on:
         required: true
         default: 'flrg20' 
         type: string
-
-
 jobs:
   build:
     runs-on: ubuntu-latest
